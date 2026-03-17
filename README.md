@@ -55,7 +55,7 @@ PrepIQ is a full-stack cyber preparedness learning platform built specifically f
 
 ### Installation
 ```bash
-git clone https://github.com/fa3tech/prepiq.git
+git clone https://github.com/Tunde81/prepiq.git
 cd prepiq
 cp .env.example .env
 # Edit .env with your API keys
